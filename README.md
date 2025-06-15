@@ -67,8 +67,11 @@ python manage.py createsuperuser
 # Start the backend server
 python manage.py runserver
 
+```
+
 ### ⚙️ Frontend Setup (React)
 
+```bash
 # Navigate to frontend directory
 cd ../frontend
 
