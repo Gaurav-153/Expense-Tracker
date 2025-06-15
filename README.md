@@ -39,7 +39,7 @@ A full-stack Expense Tracker application built with **Django** (backend) and **R
 
 - [Node.js](https://nodejs.org/) & npm
 - [Python 3.8+](https://www.python.org/)
-- pip / pipenv / poetry
+- pip / pipenv 
 - PostgreSQL (optional, SQLite is default)
 
 ---
