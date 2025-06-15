@@ -67,6 +67,8 @@ python manage.py createsuperuser
 # Start the backend server
 python manage.py runserver
 
+### ⚙️ Frontend Setup (React)
+
 # Navigate to frontend directory
 cd ../frontend
 
@@ -75,3 +77,4 @@ npm install
 
 # Start the React development server
 npm start
+
