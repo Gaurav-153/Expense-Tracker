@@ -48,7 +48,7 @@ A full-stack Expense Tracker application built with **Django** (backend) and **R
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/expense-tracker.git
+git clone https://github.com/Gaurav-153/expense-tracker.git
 cd expense-tracker/backend
 
 # Create a virtual environment
